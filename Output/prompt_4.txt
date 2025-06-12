@@ -1,0 +1,3 @@
+Summary:
+
+Results-driven Cloud Architect and AI/ML Engineer with a track record of designing and securing scalable cloud-native solutions on AWS, GCP, and Azure. Founded Vestudy, an edtech platform with 8,000+ users, and led a 15-member team from concept to deployment. Specializes in Terraform-based automation, CI/CD security, and compliance-as-code implementations, reducing deployment time by 60% and eliminating 90% of critical vulnerabilities. Certified AWS Cloud Practitioner with expertise in Python, machine learning, and infrastructure security. Recognized for leadership, technical communication, and a focus on building resilient, compliant systems. Eager to contribute to secure, cloud-enabled innovation.

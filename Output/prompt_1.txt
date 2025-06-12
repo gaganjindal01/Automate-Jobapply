@@ -1,0 +1,6 @@
+The top 5 missing skills on the resume compared to the job description are:
+1. Experience in SRE and Cloud Architecture
+2. Strong Terraform Knowledge
+3. Understanding of Kubernetes and DevOps
+4. Experience in eCommerce domain
+5. Knowledge of modularized IaC (Infrastructure as Code) and industry tooling like Terraform/OpenTofu, Ansible, Packer.

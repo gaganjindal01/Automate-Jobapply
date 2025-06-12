@@ -1,0 +1,2 @@
+# scripts/config.py
+API_KEY = "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"

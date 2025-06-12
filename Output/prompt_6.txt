@@ -1,0 +1,75 @@
+Results-driven Cloud Architect and AI/ML Engineer with 3+ years of experience designing and securing scalable cloud-native solutions across AWS, GCP, and Azure. Founded Vestudy, an edtech platform that served 8,000+ users, leading a 15-member cross-functional team from concept to deployment. Specializing in Terraform-based infrastructure automation, CI/CD pipeline security, and compliance-as-code implementations that reduced deployment time by 60% and eliminated 90% of critical vulnerabilities pre-production.
+AWS CLF-C02 BADGE LINK - CLICK HERE
+Certified AWS Cloud Practitioner with deep expertise in Python, machine learning, and infrastructure security, delivering AI-enhanced applications and predictive analytics. Recognized for leadership, clarity in technical communication, and a relentless focus on building resilient, compliant systems. Eager to contribute to organizations driving innovation through secure, cloud-enabled transformation.
+
+- S K I L L S -
+
+Cloud Architecture & Infrastructure:
+Vestudy (EdTech): Engineered scalable backend on AWS using Amplify, Lambda, S3, and CloudFront—achieved 99.9% uptime, reduced costs by 20%.
+Applied IAM, KMS, and CloudTrail to ensure zero security breaches.
+Cut provisioning time by 70% and reduced deployment errors by 60% through Terraform.
+Applied SecDevOps with Jenkins, Vault, Checkov, and OPA, eliminating 90% of staging issues.
+
+AI/ML Development:
+AI Note Digitization (HabitatLearn): Improved user engagement by 25% by directing a React Native + Tesseract OCR project with 90%+ accuracy on handwritten text.
+Enhanced accessibility and user satisfaction by implementing AI-generated image descriptions.
+
+Data Analysis & Visualization:
+Reduced reporting time by 40% by building 20+ interactive dashboards using Power BI and Tableau.
+Designed ETL workflows, processing 500K+ records/month.
+
+Tools & Programming
+Created apps in Flutter, React Native; optimized video with FFmpeg (load times down 45%).
+Skilled in Python, C/C++, Java, Dart, SQL, and Linux scripting.
+Tuned queries and schemas for PostgreSQL, MongoDB, and MS SQL, boosting speed by 40%.
+
+Leadership & Soft Skills
+Led a 15-member team to deliver a product used by 8,000+ students.
+Strong communicator with proven problem-solving and team management abilities.
+
+AI-Powered Note Digitization - Capstone Project
+Habitat-Learn | React Native, Tesseract OCR | 2024
+Increased user engagement by 25% by leading a team to develop an AI-powered note digitization system with React Native and Tesseract OCR.
+Achieved over 90% accuracy by integrating Tesseract OCR within React Native, processing more than 100 images daily during testing.
+Enhanced note digitization quality with AI text correction, reducing errors by 30%.
+Streamlined note entry by 40% through the integration of camera and image upload functionalities.
+Improved accessibility by utilizing AI to generate detailed image descriptions.
+
+Founder & Technical Lead
+Vestudy – EdTech Startup, New Delhi, India | 2021–2023
+Founded and led Vestudy, an Android platform reaching 8,000+ users, managing a team of 15.
+Engineered the app using Flutter and scaled infrastructure with AWS Amplify, Lambda, S3, and CloudFront, ensuring 99.9% uptime and reducing operational costs by 20%.
+Optimized video performance by leveraging FFmpeg for encoding, decreasing load times by 45% and optimizing storage by 35%.
+Implemented a secure note-sharing system using Amazon S3, supporting over 10,000 monthly uploads and downloads.
+Developed an interactive Reddit-style Q&A module, which decreased support tickets by 25%.
+Deployed Firebase for real-time data, reducing latency by 60%.
+Maintained robust security with IAM, KMS, and Cloud Trail, resulting in zero security breaches.
+Fostered team growth by mentoring members and consistently delivering three innovative features per quarter.
+
+- EDUCATION –
+
+YORK UNIVERSITY (Toronto, CA) - CLOUD COMPUTING AND DEV-OPS                                                                2025
+Skills acquired - AWS, AZURE, GCP, FIREBASE, NLP, Terraform, Ansible, Docker, Kubernetes
+                             Prometheus, Grafana, CI/CD pipelines (e.g., Jenkins, GitLab CI)
+
+Humber College (Toronto, CA) - Artificial Intelligence with Machine Learning                                               2024
+Skills acquired - Python, AWS, Math behind AI, NLP, Machine Learning, LLM
+
+Bachelor of Technology (B-Tech, Computer Science)                                                                                  2019 - 2023
+Bharati Vidyapeeth College Of Engineering, New Delhi, India
+Skills acquired - C, C++,EM1-4, Java, Python,SQL
+
+- CERTIFICATION –
+
+AMAZON WEB SERVICES - AWS CLF-C02 BADGE LINK
+
+Job Description:
+About the job
+
+Inclusion without Exception:
+
+Tata Consultancy Services (TCS) is an equal opportunity employer, and embraces diversity in race, nationality, ethnicity, gender, age, physical ability, neurodiversity, and sexual orientation, to create a workforce that reflects the societies we operate in. Our continued commitment to Culture and Diversity is reflected in our people stories across our workforce and implemented through equitable workplace policies and processes.
+
+About TCS:
+
+TCS is an IT services, consulting, and business solutions organization that has been partnering with many of the world's largest businesses in their transformation journeys for over 55 years. Its consulting-led, cognitive-powered portfolio of business, technology, and engineering services and solutions is delivered through its unique Location Independent Agile delivery model, recognized as a benchmark of excellence in software development. A part of the

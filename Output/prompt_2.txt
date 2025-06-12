@@ -1,0 +1,35 @@
+Updated Resume:
+
+Results-driven Cloud Architect and AI/ML Engineer with 3+ years of experience designing and securing scalable cloud-native solutions across AWS, GCP, and Azure. Founded Vestudy, an edtech platform that served 8,000+ users, leading a 15-member cross-functional team from concept to deployment. Specializing in Terraform-based infrastructure automation, CI/CD pipeline security, and compliance-as-code implementations that reduced deployment time by 60% and eliminated 90% of critical vulnerabilities pre-production. Certified AWS Cloud Practitioner with expertise in Python, machine learning, and infrastructure security.
+
+Key Skills:
+- Good experience in SRE and Cloud Architecture
+- Cloud platform experience with architecture design
+- Strong Terraform Knowledge
+- Understanding of Kubernetes and DevOps
+- Proficiency in AWS, GCP, Azure
+- Experience with IaC tools like Terraform
+- Experience with Docker, Kubernetes, and containerization
+- Knowledge of microservices, API Gateway, and event-driven architecture
+- Proficient in cloud networking and security best practices
+- Experience with cloud monitoring and logging tools
+
+Experience:
+- Founder & Technical Lead at Vestudy, an edtech platform serving 8,000+ users
+- Engineered scalable backend on AWS with 99.9% uptime and cost reduction
+- Implemented secure note-sharing system using Amazon S3
+- Deployed Firebase for real-time data, reducing latency by 60%
+- Led a 15-member team to deliver innovative features consistently
+
+Education:
+- Cloud Computing and Dev-Ops at York University
+- Artificial Intelligence with Machine Learning at Humber College
+- Bachelor of Technology in Computer Science
+
+Certification:
+- AWS CLF-C02
+
+Capstone Project:
+- AI-Powered Note Digitization, increasing user engagement by 25% and improving accessibility
+
+I am eager to contribute my expertise in cloud architecture, Terraform automation, and AI/ML development to support TCS in its transformation and innovation goals. My experience in leading cross-functional teams and delivering secure, scalable solutions aligns with the key skills and responsibilities required for the role. I am committed to driving excellence and embracing diversity in the workplace culture to create impactful solutions for TCS.

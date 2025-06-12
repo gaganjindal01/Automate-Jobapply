@@ -1,0 +1,8 @@
+- Led the development of Vestudy, an edtech platform serving 8,000+ users, overseeing a 15-member team from concept to deployment.
+- Engineered scalable backend on AWS for Vestudy, achieving 99.9% uptime and reducing costs by 20%.
+- Reduced deployment time by 60% and eliminated 90% of critical vulnerabilities pre-production through infrastructure automation.
+- Improved user engagement by 25% through AI-powered note digitization project.
+- Reduced reporting time by 40% by creating 20+ interactive dashboards using Power BI and Tableau.
+- Optimized video load times by 45% with FFmpeg and boosted queries' speed by 40% for various databases.
+- Led a 15-member team to deliver innovative features for Vestudy.
+- Certified AWS Cloud Practitioner with expertise in Python, machine learning, and infrastructure security.
